@@ -1,7 +1,4 @@
 
-# studyclub
-
-make people gather and share experience
 
 # StudyClub
 
